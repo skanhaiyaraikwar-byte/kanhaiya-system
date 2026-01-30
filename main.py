@@ -1,4 +1,4 @@
-from flask import Flask, render_template_string, request
+‎from flask import Flask, render_template_string, request
 ‎import time
 ‎
 ‎app = Flask(__name__)
@@ -172,4 +172,3 @@ from flask import Flask, render_template_string, request
 ‎
 ‎if __name__ == '__main__':
 ‎    app.run(host='0.0.0.0', port=10000)
-‎
